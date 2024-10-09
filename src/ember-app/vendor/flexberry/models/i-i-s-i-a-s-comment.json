@@ -1,0 +1,48 @@
+﻿{
+  "name": "IISIASComment",
+  "modelName": "i-i-s-i-a-s-comment",
+  "className": "Comment",
+  "nameSpace": "IIS.IAS",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "commentText",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "incident",
+      "relatedTo": "i-i-s-i-a-s-incident",
+      "inverse": "comment"
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "CommentE",
+      "modelName": "i-i-s-i-a-s-comment",
+      "attrs": [
+        {
+          "name": "commentText",
+          "caption": "Comment text",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

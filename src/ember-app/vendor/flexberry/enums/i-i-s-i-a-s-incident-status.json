@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.IAS",
+  "className": "IncidentStatus",
+  "enumObjects": {
+    "Created": "Создан",
+    "Active": "В работе",
+    "Closed": "Выполнен"
+  }
+}

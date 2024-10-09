@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-a-s-incident-e",
+  "editForm": "i-i-s-i-a-s-incident-e",
+  "external": false,
+  "caption": "Incident",
+  "name": "IISIASIncidentL",
+  "className": "IncidentL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-incident",
+      "modelProjection": "IncidentL"
+    }
+  ]
+}

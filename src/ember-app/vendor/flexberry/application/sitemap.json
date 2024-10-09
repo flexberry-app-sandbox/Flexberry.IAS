@@ -1,0 +1,58 @@
+﻿{
+  "applicationCaption": "IAS",
+  "applicationTitle": "IAS",
+  "items": [
+    {
+      "link": null,
+      "menuName": "serive-desk",
+      "caption": "Serive Desk",
+      "title": "Serive Desk",
+      "children": [
+        {
+          "link": "i-i-s-i-a-s-incident-l",
+          "menuName": null,
+          "caption": "Инцидент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": null,
+          "menuName": "справочники",
+          "caption": "Справочники",
+          "title": "Справочники",
+          "children": [
+            {
+              "link": "i-i-s-i-a-s-responsible-l",
+              "menuName": null,
+              "caption": "Ответственный",
+              "title": "Responsible",
+              "children": null
+            },
+            {
+              "link": "i-i-s-i-a-s-position-l",
+              "menuName": null,
+              "caption": "Должность",
+              "title": "Position",
+              "children": null
+            },
+            {
+              "link": "i-i-s-i-a-s-counter-party-l",
+              "menuName": null,
+              "caption": "Контрагент",
+              "title": "Counter party",
+              "children": null
+            },
+            {
+              "link": "i-i-s-i-a-s-category-l",
+              "menuName": null,
+              "caption": "Категория",
+              "title": "Category",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

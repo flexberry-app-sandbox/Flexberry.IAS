@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-a-s-responsible-e",
+  "editForm": "i-i-s-i-a-s-responsible-e",
+  "external": false,
+  "caption": "Responsible",
+  "name": "IISIASResponsibleL",
+  "className": "ResponsibleL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-responsible",
+      "modelProjection": "ResponsibleL"
+    }
+  ]
+}

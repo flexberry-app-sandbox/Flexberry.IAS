@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-a-s-counter-party-e",
+  "editForm": "i-i-s-i-a-s-counter-party-e",
+  "external": false,
+  "caption": "Counter party",
+  "name": "IISIASCounterPartyL",
+  "className": "CounterPartyL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-counter-party",
+      "modelProjection": "CounterPartyL"
+    }
+  ]
+}

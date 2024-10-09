@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Category",
+  "name": "IISIASCategoryE",
+  "className": "CategoryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-category",
+      "modelProjection": "CategoryE"
+    }
+  ]
+}

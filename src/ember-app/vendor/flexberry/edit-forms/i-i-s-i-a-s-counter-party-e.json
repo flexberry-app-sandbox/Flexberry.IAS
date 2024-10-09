@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Position",
+      "projection": "PositionL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Counter party",
+  "name": "IISIASCounterPartyE",
+  "className": "CounterPartyE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-counter-party",
+      "modelProjection": "CounterPartyE"
+    }
+  ]
+}

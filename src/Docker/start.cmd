@@ -1,0 +1,1 @@
+docker-compose -p ias up -d

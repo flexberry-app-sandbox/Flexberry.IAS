@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Position",
+      "projection": "PositionL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Responsible",
+  "name": "IISIASResponsibleE",
+  "className": "ResponsibleE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-responsible",
+      "modelProjection": "ResponsibleE"
+    }
+  ]
+}

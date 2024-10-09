@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-a-s-category-e",
+  "editForm": "i-i-s-i-a-s-category-e",
+  "external": false,
+  "caption": "Category",
+  "name": "IISIASCategoryL",
+  "className": "CategoryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-category",
+      "modelProjection": "CategoryL"
+    }
+  ]
+}

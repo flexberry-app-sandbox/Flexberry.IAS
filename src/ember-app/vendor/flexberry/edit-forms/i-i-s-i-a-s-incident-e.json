@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Responsible",
+      "projection": "ResponsibleL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "CounterParty",
+      "projection": "CounterPartyL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Category",
+      "projection": "CategoryL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Incident",
+  "name": "IISIASIncidentE",
+  "className": "IncidentE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-incident",
+      "modelProjection": "IncidentE"
+    }
+  ]
+}

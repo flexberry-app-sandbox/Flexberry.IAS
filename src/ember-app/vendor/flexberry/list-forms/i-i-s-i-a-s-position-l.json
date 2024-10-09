@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-a-s-position-e",
+  "editForm": "i-i-s-i-a-s-position-e",
+  "external": false,
+  "caption": "Position",
+  "name": "IISIASPositionL",
+  "className": "PositionL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-position",
+      "modelProjection": "PositionL"
+    }
+  ]
+}

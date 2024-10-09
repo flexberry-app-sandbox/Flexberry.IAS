@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Position",
+  "name": "IISIASPositionE",
+  "className": "PositionE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-a-s-position",
+      "modelProjection": "PositionE"
+    }
+  ]
+}
